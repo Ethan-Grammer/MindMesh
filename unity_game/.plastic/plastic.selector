@@ -1,0 +1,3 @@
+rep "bitProject@Bitcamp_darren@cloud"
+  path "/"
+    smartbranch "/main"
